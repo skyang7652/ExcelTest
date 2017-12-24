@@ -1,0 +1,11 @@
+C:\Users\fish5\Documents\Gitlab\ExcelTest\ExcelTest\obj\Debug\ExcelTest.csproj.ResolveComReference.cache
+C:\Users\fish5\Documents\Gitlab\ExcelTest\ExcelTest\obj\Debug\ExcelTest.Properties.Resources.resources
+C:\Users\fish5\Documents\Gitlab\ExcelTest\ExcelTest\obj\Debug\ExcelTest.csproj.GenerateResource.Cache
+C:\Users\fish5\Documents\Gitlab\ExcelTest\ExcelTest\obj\Debug\ExcelTest.FormMain.resources
+C:\Users\fish5\Documents\Gitlab\ExcelTest\ExcelTest\obj\Debug\ExcelTest.FormProgress.resources
+C:\Users\fish5\Documents\Gitlab\ExcelTest\ExcelTest\bin\Debug\ExcelConvert.exe.config
+C:\Users\fish5\Documents\Gitlab\ExcelTest\ExcelTest\bin\Debug\ExcelConvert.exe
+C:\Users\fish5\Documents\Gitlab\ExcelTest\ExcelTest\bin\Debug\ExcelConvert.pdb
+C:\Users\fish5\Documents\Gitlab\ExcelTest\ExcelTest\obj\Debug\ExcelConvert.exe
+C:\Users\fish5\Documents\Gitlab\ExcelTest\ExcelTest\obj\Debug\ExcelConvert.pdb
+C:\Users\fish5\Documents\Gitlab\ExcelTest\ExcelTest\obj\Debug\ExcelTest.csprojResolveAssemblyReference.cache
