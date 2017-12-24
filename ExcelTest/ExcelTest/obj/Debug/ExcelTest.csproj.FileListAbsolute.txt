@@ -9,3 +9,15 @@ C:\Users\fish5\Documents\Gitlab\ExcelTest\ExcelTest\bin\Debug\ExcelConvert.pdb
 C:\Users\fish5\Documents\Gitlab\ExcelTest\ExcelTest\obj\Debug\ExcelConvert.exe
 C:\Users\fish5\Documents\Gitlab\ExcelTest\ExcelTest\obj\Debug\ExcelConvert.pdb
 C:\Users\fish5\Documents\Gitlab\ExcelTest\ExcelTest\obj\Debug\ExcelTest.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\ExcelTest\ExcelTest\ExcelTest\bin\Debug\ExcelConvert.exe.config
+C:\Users\user\Documents\GitHub\ExcelTest\ExcelTest\ExcelTest\bin\Debug\ExcelConvert.exe
+C:\Users\user\Documents\GitHub\ExcelTest\ExcelTest\ExcelTest\bin\Debug\ExcelConvert.pdb
+C:\Users\user\Documents\GitHub\ExcelTest\ExcelTest\ExcelTest\obj\Debug\ExcelTest.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\ExcelTest\ExcelTest\ExcelTest\obj\Debug\ExcelTest.csproj.ResolveComReference.cache
+C:\Users\user\Documents\GitHub\ExcelTest\ExcelTest\ExcelTest\obj\Debug\ExcelTest.FormMain.resources
+C:\Users\user\Documents\GitHub\ExcelTest\ExcelTest\ExcelTest\obj\Debug\ExcelTest.FormProgress.resources
+C:\Users\user\Documents\GitHub\ExcelTest\ExcelTest\ExcelTest\obj\Debug\ExcelTest.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\ExcelTest\ExcelTest\ExcelTest\obj\Debug\ExcelTest.csproj.GenerateResource.Cache
+C:\Users\user\Documents\GitHub\ExcelTest\ExcelTest\ExcelTest\obj\Debug\ExcelTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\ExcelTest\ExcelTest\ExcelTest\obj\Debug\ExcelConvert.exe
+C:\Users\user\Documents\GitHub\ExcelTest\ExcelTest\ExcelTest\obj\Debug\ExcelConvert.pdb

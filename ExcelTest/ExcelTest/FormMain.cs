@@ -681,11 +681,18 @@ namespace ExcelTest
             {
                 MessageBox.Show(e.Message);
 
-                oWB.Close(0);
-                oWB = null;
+                if (oWB != null)
+                {
+                    oWB.Close(0);
+                    oWB = null;
+                }
 
-                oXL.Quit();
-                oXL = null;
+                if (oXL != null)
+                {
+                    oXL.Quit();
+                    oXL = null;
+                }
+
             }
                     
         }
@@ -901,8 +908,22 @@ namespace ExcelTest
             {
                 str = Regex.Replace(date, "[^0-9]", "/");
             }
-           
-           str = str.TrimStart('/');
+
+
+           string[] temp =  str.Split('/');
+            List<string> tempList = new List<string>(); 
+            str = string.Empty;
+
+            for(int i = 0; i < temp.Length;i++)
+            {
+                if(temp[i] != "")
+                {
+                    tempList.Add(temp[i]);
+                }
+            }
+
+            str = tempList[0] + "/" + tempList[1] + "/" + tempList[2];
+            str = str.TrimStart('/');
            str = str.TrimEnd('/');
             string[] stemp = str.Split('/');
             if(stemp[0].Length < 4 )
